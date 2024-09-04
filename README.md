@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siggis69 or Sigge Nilsson
-- 👀 I’m interested in computers, software, science, comics, videogames and other pop culture
+- 👀 I’m interested in computers,science, comics, videogames and other typical nerd things
 - 🌱 I’m currently on my last year of highschool and I'm learning a wide range of different programming languages including Python, C#, JavaScript, HTML and CSS
 - 💞️ I’m not really looking to collaborate on anything since my hands are pretty full with school.
 - 📫 How to reach me: sigge.nilsson06@gmail.com
